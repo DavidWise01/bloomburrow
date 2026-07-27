@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1739
+slug  : bloomburrow
+seal  : d90bb5d66389f76cf7d92d0326836e4a58ff10e88bab5e81da913391523d082b
+prev  : 1871c3402daa2ae34f8e6a4caaf5175c17a76686418f58259f3ab7e21e18578c
+link  : 9cdd405d00af16206b69d80fe4a7c993db61ffa93dd43713c05869b6e67e73cd
+head  : 76cc83f6a4757ecfb99bb857b9fb8b8221e8ab8915e0cfd7d1e0480d17eb43cf
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
